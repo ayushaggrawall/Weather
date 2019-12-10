@@ -2,6 +2,8 @@
 
 Run:
 npx create-react-app weather-app
+
+
 It takes some time.
 Then:
 
