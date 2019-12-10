@@ -8,4 +8,6 @@ It takes some time.
 Then:
 
 cd weather-app
+
+
 npm start
